@@ -13,13 +13,12 @@ public class PrimeiroPrograma {
 		System.out.println(livros);
 		
 		
-		/*int a = 2;
-		int b =3;
-		System.out.println("HAIDI HAID HAIDI HO!" +(a*b));
-		*/
+	
 	}
 
 }
+
+//outro comentário aleatório
 
 class Livros {
 	private String nome;
